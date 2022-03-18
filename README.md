@@ -1,5 +1,6 @@
 # matrixBot
-Matrix bot is a drawing bot in the [matrix](https://youtube.com/channel/UCKbZXPc-xMfoQFFM3rYk7VA)
+Matrix bot is a drawing bot in the [matrix](https://youtube.com/channel/UCKbZXPc-xMfoQFFM3rYk7VA). 
+He works in telegram.
 
 ## Установка и запуск
 
@@ -40,4 +41,11 @@ In the width and height parameters, specify the size of the matrix
 
 Click on ```NEW DRAWING```
 
-Draw pixel art and save as .png
+Draw pixel art and save as ***.png***
+
+### Convert image to txt
+
+We go into the ``Ascgen2`` application, set the dimensions of the matrix.
+Uploading the created image.
+
+![Hello](https://drive.google.com/file/d/1Lmq1EQwtBhMsDHFAcoWw5FkoqLFlGTH9/view?usp=sharing)
