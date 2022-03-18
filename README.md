@@ -2,7 +2,7 @@
 Matrix bot is a drawing bot in the [matrix](https://youtube.com/channel/UCKbZXPc-xMfoQFFM3rYk7VA). 
 He works in telegram.
 
-## Установка и запуск
+## Installation and launch
 
 To run this bot, you must install the following pip packages:
 
