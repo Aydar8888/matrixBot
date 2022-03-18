@@ -28,7 +28,7 @@ Import the project to get started
 git clone https://github.com/Aydar8888/matrixBot
 ```
 
-```Open main.py```
+
 
 ### Image creation
 Let's follow the [link](https://www.pixilart.com/)
@@ -48,4 +48,16 @@ Draw pixel art and save as ***.png***
 We go into the ``Ascgen2`` application, set the dimensions of the matrix.
 Uploading the created image.
 
-![Hello](https://drive.google.com/file/d/1Lmq1EQwtBhMsDHFAcoWw5FkoqLFlGTH9/view?usp=sharing)
+Save our text document to the ```\matrix txt```
+
+### Bot launch
+
+```Open main.py```
+
+We launch telegram on the floor of the screen.
+
+We write to the [chat](https://t.me/MatrixTes) that he would take the first position in the list.
+
+**IMPORTANT:**
+
+***The bot will write to the first chat in the list.***
