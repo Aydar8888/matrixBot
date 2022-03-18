@@ -2,8 +2,7 @@ from asyncio import sleep
 from itertools import count
 import pyautogui as pag
 import time
-import cv2
-import math
+
 
 size_matrix_w, size_matrix_h = map(int, input("Введите размер марицы>> ").split())
 
@@ -12,7 +11,7 @@ pag.click(503, 1384) # нажатие по текстовой строке
 time.sleep(3) # задаржка в 3 секнды
 
 
-file = open(r"txt_matrix\ASCII-смайлик.txt", 'r')
+file = open(r"matrix_txt\ASCII-смайлик.txt", 'r')
 data = file.read()
 y = 1
 x = 0
