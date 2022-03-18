@@ -6,8 +6,16 @@ import time
 
 size_matrix_w, size_matrix_h = map(int, input("Введите размер марицы>> ").split())
 
-pag.click(72, 110)  # нажатие по 1 чату в списке
-pag.click(503, 1384) # нажатие по текстовой строке
+print("Отройте telegram на пол экрана и поставте курсор на 1 чат в спике, там должен быть чат MatrixTest (крсор держать 10 сек.)")
+time.sleep(10)
+x1, y1 = pag.position()
+print("Поставте курсор на поле ввода чата (курсор держать 10 сек.)")
+time.sleep(10)
+x2, y2 = pag.position()
+print("Настройка завершена")
+
+pag.click(x1, y1)  # нажатие по 1 чату в списке
+pag.click(x2, y2) # нажатие по текстовой строке
 time.sleep(3) # задаржка в 3 секнды
 
 
