@@ -29,7 +29,6 @@ git clone https://github.com/Aydar8888/matrixBot
 ```
 
 
-
 ### Image creation
 Let's follow the [link](https://www.pixilart.com/)
 
@@ -61,3 +60,5 @@ We write to the [chat](https://t.me/MatrixTes) that he would take the first posi
 **IMPORTANT:**
 
 ***The bot will write to the first chat in the list.***
+
+
