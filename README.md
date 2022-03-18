@@ -29,4 +29,15 @@ git clone https://github.com/Aydar8888/matrixBot
 
 ```Open main.py```
 
+### Image creation
+Let's follow the [link](https://www.pixilart.com/)
 
+Click on the button ```START DRAWING``` 
+
+Then click on ```NEW DRAWING```
+
+In the width and height parameters, specify the size of the matrix
+
+Click on ```NEW DRAWING```
+
+Draw pixel art and save as .png
